@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sergeiypermyakov
 - 👀 I’m interested in PHP, joomla, wordpress, bitrix
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m inerestes in to create useful(for health, medicine) component for joomla.
 - 📫 How to reach me middle-php?))
 
 <!---
